@@ -29,6 +29,10 @@ img {
   object-fit: cover;
 }
 
+#green {
+  width: 615px;
+}
+
 #Container {
   background-color: #fff;
   display: flex;
